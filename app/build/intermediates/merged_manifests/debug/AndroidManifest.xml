@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pay"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.pay.totalloan" />
+        <activity android:name="com.example.pay.repaidloan" />
+        <activity android:name="com.example.pay.openloan" />
+        <activity android:name="com.example.pay.wallet" />
+        <activity android:name="com.example.pay.agreement" />
+        <activity android:name="com.example.pay.Purpose" />
+        <activity android:name="com.example.pay.lend" />
+        <activity android:name="com.example.pay.terms" />
+        <activity android:name="com.example.pay.upload" />
+        <activity android:name="com.example.pay.successfull" />
+        <activity android:name="com.example.pay.help" />
+        <activity android:name="com.example.pay.button" />
+        <activity android:name="com.example.pay.signup2" />
+        <activity android:name="com.example.pay.signup" />
+        <activity android:name="com.example.pay.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

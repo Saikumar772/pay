@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".successfull">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40dp"
+        android:textAlignment="center"
+        android:layout_marginTop="100dp"
+        android:textStyle="bold"
+        android:text="RECORD HAS BEEN SUBMITTED"
+        tools:layout_editor_absoluteX="137dp"
+        tools:layout_editor_absoluteY="196dp"
+        tools:ignore="MissingConstraints" />
+    <Button
+        android:id="@+id/b1"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:layout_marginLeft="70dp"
+        android:textAlignment="center"
+        android:layout_marginTop="200dp"
+        android:text="Back to Home"/>
+</LinearLayout>

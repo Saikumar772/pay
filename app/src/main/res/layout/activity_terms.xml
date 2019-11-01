@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".terms">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Terms and Conditions"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.48"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.061" />
+
+
+    <ScrollView
+        android:layout_width="395dp"
+        android:layout_height="624dp"
+        android:layout_weight="94.5"
+        android:paddingBottom="5dp"
+        android:fillViewport="true"
+        android:background="@drawable/image_border"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="99dp"
+        tools:ignore="MissingConstraints">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                tools:ignore="MissingPrefix"
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:text="\tAs a condition of your use of the Website, you will not use the Website for any purpose that is unlawful or prohibited by these Terms and Conditions or by any domestic or international laws, statues, ordinances and regulations. Your use of the Website is your responsibility.\n
+You shall not, display, upload, modify, publish, transmit, update or share any information on the Website, that –\n
+\tBelongs to another person and to which you do not have any right\n
+\tIs grossly harmful, harassing, blasphemous, defamatory, obscene, pornographic, libellous, invasive of another’s privacy, hateful, or racially, ethnically objectionable, disparaging, relating or encouraging money laundering or gambling, or otherwise unlawful in any manner\n
+\tInvolves the transmission of Junk mail, chain letters, or unsolicited mass mailing or spamming or unsolicited commercial advertisement\n
+\tHarms minors in any way\n
+\tInfringes any patent, trademark, copyright or other proprietary rights\n
+\tViolates any law for the time being in force\n
+\tDeceives or misleads the addressee about the origin of such messages or communicates any information which is grossly offensive or menacing in nature\n
+\tImpersonates another person\n
+\tContains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer resource.\n"
+                android:inputType="textMultiLine"/>
+            <RadioButton
+                android:id="@+id/r1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="I have read all terms and conditions"
+                android:textSize="21dp"
+                android:textStyle="bold"
+                android:onClick="onRadioButtonClicked"
+                />
+            <Button
+                android:id="@+id/a1"
+                android:layout_width="130dp"
+                android:layout_height="50dp"
+                android:text="ACCEPT"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textAlignment="center"/>
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</LinearLayout>

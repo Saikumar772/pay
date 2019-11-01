@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\fe6dde974b79bc2aeb21853e8d220907\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\5aa966a0b114f7e42463fbe69ae04477\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\00799ea530bed10ee6fc6a82ad454e60\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\211741b89296852d16866d17598d57c3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\003192161279c382320eb5c6d256ba78\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\7b67d57764d79e8be2cc8846bca89590\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\8507aa585c822e766a9a2cd5bf944696\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\4e472a6ae68d8e255d05b58abc244d96\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\79f6a5702608fc443222e1ab43de9ee6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\4149e8af670b550b79bf02f26d157e7b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\816896b90bea8027d3f1cbc50ab6ae16\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\f688bba0ad49d40ad054f1142245d1dd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\9f686833a4f17bb102f93d56b7289a65\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\b269d78b9c374171d6250fdcee6901e8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\6eccd038f030db35adf3c6f4ebaca89b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\d17dea2c43694a49192951e105befe87\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\123a1a9f61e7b1820b0c795cb56c1efc\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\751ee8a5ad641159fc0256aed5af9888\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\936526bd2eac9c56fc4beb3e306fdd74\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\2decfc21d401432b9fdfb5ea7fe60429\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\9de74d78bb3639f4c1196ef457018d1d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\e3ba05bd5c433a7cf4aa1233b3fabd92\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\c289ef4a3113d451d86ed439a3d48a05\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\0fb077c2f89fddf6827381fb3708da80\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\44a7135d872629d6fe6227d414f5532c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\72b63ec389ff086e5d25026161fdedb7\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\ec4519db59b5840e1cb822b824d436de\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\fa6a7585b4bf49bda4782dc4b4cd412d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\5793f265d118b6b719eac204e8d58e61\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\41ce1692fc820a0598c6015f192fe0a0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\59ee2784cfc2173287e5af55b78c2c94\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\f439e809294dfd6ece556a8cf698a26d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\d71a02fcddd4dc5d36d116e2ce7ab954\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\3e1c47ce4857e5f71730d35d672f26e7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\aa461339bc49ebf958b28c327da35d0a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\3650221f86ebec656989f008432ce4b4\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:4:1-62
+	android:name
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:4:18-60
+application
+ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:5:5-33:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\fe6dde974b79bc2aeb21853e8d220907\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\fe6dde974b79bc2aeb21853e8d220907\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\00799ea530bed10ee6fc6a82ad454e60\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\00799ea530bed10ee6fc6a82ad454e60\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\c289ef4a3113d451d86ed439a3d48a05\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\c289ef4a3113d451d86ed439a3d48a05\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\72b63ec389ff086e5d25026161fdedb7\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\72b63ec389ff086e5d25026161fdedb7\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\c289ef4a3113d451d86ed439a3d48a05\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.pay.totalloan
+ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:12:9-56
+	android:name
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:12:19-44
+activity#com.example.pay.repaidloan
+ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:13:9-48
+	android:name
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:13:19-45
+activity#com.example.pay.openloan
+ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:14:9-46
+	android:name
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:14:19-43
+activity#com.example.pay.wallet
+ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:15:19-41
+activity#com.example.pay.agreement
+ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:16:9-47
+	android:name
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:16:19-44
+activity#com.example.pay.Purpose
+ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:17:9-45
+	android:name
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:17:19-42
+activity#com.example.pay.lend
+ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:18:9-42
+	android:name
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:18:19-39
+activity#com.example.pay.terms
+ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:19:9-43
+	android:name
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:19:19-40
+activity#com.example.pay.upload
+ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:20:9-44
+	android:name
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:20:19-41
+activity#com.example.pay.successfull
+ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:21:9-49
+	android:name
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:21:19-46
+activity#com.example.pay.help
+ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:22:9-42
+	android:name
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:22:19-39
+activity#com.example.pay.button
+ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:23:9-44
+	android:name
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:23:19-41
+activity#com.example.pay.signup2
+ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:24:9-45
+	android:name
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:24:19-42
+activity#com.example.pay.signup
+ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:25:9-44
+	android:name
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:25:19-41
+activity#com.example.pay.MainActivity
+ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:26:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\fe6dde974b79bc2aeb21853e8d220907\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\fe6dde974b79bc2aeb21853e8d220907\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\5aa966a0b114f7e42463fbe69ae04477\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\5aa966a0b114f7e42463fbe69ae04477\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\00799ea530bed10ee6fc6a82ad454e60\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\00799ea530bed10ee6fc6a82ad454e60\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\211741b89296852d16866d17598d57c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\211741b89296852d16866d17598d57c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\003192161279c382320eb5c6d256ba78\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\003192161279c382320eb5c6d256ba78\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\7b67d57764d79e8be2cc8846bca89590\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\7b67d57764d79e8be2cc8846bca89590\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\8507aa585c822e766a9a2cd5bf944696\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\8507aa585c822e766a9a2cd5bf944696\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\4e472a6ae68d8e255d05b58abc244d96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\4e472a6ae68d8e255d05b58abc244d96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\79f6a5702608fc443222e1ab43de9ee6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\79f6a5702608fc443222e1ab43de9ee6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\4149e8af670b550b79bf02f26d157e7b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\4149e8af670b550b79bf02f26d157e7b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\816896b90bea8027d3f1cbc50ab6ae16\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\816896b90bea8027d3f1cbc50ab6ae16\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\f688bba0ad49d40ad054f1142245d1dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\f688bba0ad49d40ad054f1142245d1dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\9f686833a4f17bb102f93d56b7289a65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\9f686833a4f17bb102f93d56b7289a65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\b269d78b9c374171d6250fdcee6901e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\b269d78b9c374171d6250fdcee6901e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\6eccd038f030db35adf3c6f4ebaca89b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\6eccd038f030db35adf3c6f4ebaca89b\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\d17dea2c43694a49192951e105befe87\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\d17dea2c43694a49192951e105befe87\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\123a1a9f61e7b1820b0c795cb56c1efc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\123a1a9f61e7b1820b0c795cb56c1efc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\751ee8a5ad641159fc0256aed5af9888\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\751ee8a5ad641159fc0256aed5af9888\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\936526bd2eac9c56fc4beb3e306fdd74\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\936526bd2eac9c56fc4beb3e306fdd74\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\2decfc21d401432b9fdfb5ea7fe60429\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\2decfc21d401432b9fdfb5ea7fe60429\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\9de74d78bb3639f4c1196ef457018d1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\9de74d78bb3639f4c1196ef457018d1d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\e3ba05bd5c433a7cf4aa1233b3fabd92\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\e3ba05bd5c433a7cf4aa1233b3fabd92\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\c289ef4a3113d451d86ed439a3d48a05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\c289ef4a3113d451d86ed439a3d48a05\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\0fb077c2f89fddf6827381fb3708da80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\0fb077c2f89fddf6827381fb3708da80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\44a7135d872629d6fe6227d414f5532c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\44a7135d872629d6fe6227d414f5532c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\72b63ec389ff086e5d25026161fdedb7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\72b63ec389ff086e5d25026161fdedb7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\ec4519db59b5840e1cb822b824d436de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\ec4519db59b5840e1cb822b824d436de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\fa6a7585b4bf49bda4782dc4b4cd412d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\fa6a7585b4bf49bda4782dc4b4cd412d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\5793f265d118b6b719eac204e8d58e61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\5793f265d118b6b719eac204e8d58e61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\41ce1692fc820a0598c6015f192fe0a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\41ce1692fc820a0598c6015f192fe0a0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\59ee2784cfc2173287e5af55b78c2c94\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\59ee2784cfc2173287e5af55b78c2c94\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\f439e809294dfd6ece556a8cf698a26d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\f439e809294dfd6ece556a8cf698a26d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\d71a02fcddd4dc5d36d116e2ce7ab954\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\d71a02fcddd4dc5d36d116e2ce7ab954\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\3e1c47ce4857e5f71730d35d672f26e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\3e1c47ce4857e5f71730d35d672f26e7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\aa461339bc49ebf958b28c327da35d0a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\aa461339bc49ebf958b28c327da35d0a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\3650221f86ebec656989f008432ce4b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\saiku\.gradle\caches\transforms-2\files-2.1\3650221f86ebec656989f008432ce4b4\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\saiku\AndroidStudioProjects\pay\app\src\main\AndroidManifest.xml

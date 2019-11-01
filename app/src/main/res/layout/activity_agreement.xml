@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".agreement"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Agree to terms"
+        android:textAlignment="center"
+        android:textSize="23dp"
+        android:textColor="#000"/>
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="If I do not repay my dues despite repeated remainders , I understand that AmigoPay may"
+        android:textSize="18dp"
+        android:textAppearance="@color/colorAccent"
+        android:textColor="#000"/>
+    <CheckBox
+        android:id="@+id/b1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/image_border"
+        android:layout_marginTop="4dp"
+        android:padding="4dp"
+        android:text="Send people to my college,residence or office of my parents,relatives or other associates to collect the dues"
+        android:textSize="15dp"
+        android:textStyle="normal" />
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/image_border"
+        android:layout_marginTop="4dp"
+        android:padding="4dp"
+        android:text="Share my default status with my parents,relatives,friends,neighbours and any other people may I know"
+        android:textSize="15dp"/>
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/image_border"
+        android:layout_marginTop="4dp"
+        android:padding="4dp"
+        android:text="Share my default status with my college authorities,professors,bank and any other service providers"
+        android:textSize="15dp" />
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/image_border"
+        android:layout_marginTop="4dp"
+        android:padding="4dp"
+        android:text="Share my default status with prospective employers and other lending institutions"
+        android:textSize="15dp"
+        />
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/image_border"
+        android:layout_marginTop="4dp"
+      android:padding="4dp"
+        android:text="Publish my default status along with name,photo,address in a newspaper"
+        android:textSize="15dp" />
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/image_border"
+        android:layout_marginTop="4dp"
+        android:padding="4dp"
+        android:text="Initiate legal action against me"
+        android:textSize="15dp"/>
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Agree"
+        android:textSize="20dp"
+        android:layout_marginBottom="8dp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:layout_marginTop="15dp"/>
+</LinearLayout>
